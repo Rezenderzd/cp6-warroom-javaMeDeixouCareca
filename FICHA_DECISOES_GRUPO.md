@@ -137,6 +137,15 @@ Uma linha por decisão registrada acima (usem os títulos ditados em aula):
 **Placar do grupo após esta decisão:** 🔥 8 · 💰 R$ 35 mil · 🧹 0
  
 
+ ## A noite das contas gêmeas
+ 
+**Tipo:** rodada  · **Voto:** (D)
+ 
+**Justificativa:** Delegar a numeração para o banco de dados evita que os UUID recomecem caso a aplicação caia e a instância do Singleton deixe de existir. Desse modo, o banco de dados consegue sempre seguir a sequência mesmo que esteja fora do ar, já que seus dados persistem.
+ 
+**Placar do grupo após esta decisão:** 🔥 8 · 💰 R$ 45 mil · 🧹 0
+ 
+
 ---
 
 # 📋 PÓS-MORTEM · relatório de incidente (montar em sala na 3ª aula)
