@@ -8,19 +8,20 @@
 > **Os incidentes da madrugada são revelados só em aula.** O título de cada registro
 > será **ditado pelo professor na hora**; ninguém se antecipe.
 
-**Grupo (nome da equipe plantonista):** ______________________________________
+**Grupo (nome da equipe plantonista):** javaMeDeixouCareca
 
-**Turma:** ____________ **Repo:** `cp6-warroom-____________________`
+**Turma:** 2CCPO **Repo:** `cp6-warroom-javaMeDeixouCareca`
 
 **Integrantes (nome + RM):**
 
 | Nome | RM |
 |---|---|
-| | |
-| | |
-| | |
-| | |
-| | |
+| Fernando Caires Silva | 563415 |
+| Guilherme Martins Rezende | 563500 |
+|Gregory Debom Ferreira | 562346 |
+| Gustavo Hackime Costa | 563751 |
+| Luiz Henrique Barbosa Dias|562399 |
+|Raphael Mischiatti de Souza | 563567 |
 
 ## 0. Setup do repositório (antes da 1ª aula; podem apagar esta seção depois)
 
@@ -113,6 +114,20 @@ Uma linha por decisão registrada acima (usem os títulos ditados em aula):
 | | | | |
 
 *(adicionem linhas conforme as decisões da madrugada)*
+
+*(as decisões entram aqui, na ordem em que a madrugada as trouxer; placar inicial:
+🔥 7 · 💰 0 · 🧹 2)*
+
+
+## O saldo que virou negativo
+
+**Tipo:**  rodada  · **Voto:** (C)
+
+**Justificativa:** Corrigir o código em questão é uma questão simples de alterar uma única linha de código. Além disso, escrever os testes unitários não é uma tarefa que demanda muito tempo e evita efeito rebote no futuro.
+
+**Placar do grupo após esta decisão:** 🔥 8 · 💰 R$ 35 mil · 🧹 1
+
+
 
 ---
 
