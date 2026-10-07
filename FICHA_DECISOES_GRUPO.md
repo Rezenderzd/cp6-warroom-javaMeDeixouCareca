@@ -128,6 +128,14 @@ Uma linha por decisão registrada acima (usem os títulos ditados em aula):
 **Placar do grupo após esta decisão:** 🔥 8 · 💰 R$ 35 mil · 🧹 1
 
 
+## SQL Injection funcionando na busca por titular. O que fazer?
+ 
+**Tipo:** rodada · **Voto:** (D)
+ 
+**Justificativa:** Utilizar o Spring, embora seja mais demorado por necessitar a limpeza do código anterior, ajuda na manutenibilidade futura do código e evita problemas de retrabalho, uma vez que possui proteção contra SQL Injection embutida.
+ 
+**Placar do grupo após esta decisão:** 🔥 8 · 💰 R$ 35 mil · 🧹 0
+ 
 
 ---
 
