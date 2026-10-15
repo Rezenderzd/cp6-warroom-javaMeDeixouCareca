@@ -162,6 +162,14 @@ Uma linha por decisão registrada acima (usem os títulos ditados em aula):
  
 **Placar do grupo após esta decisão:** 🔥 9 · 💰 R$ 60 mil · 🧹 2
 
+## O cadastro com metade dos campos (02h20)
+ 
+**Tipo:** relâmpago  · **Voto:** (B)
+ 
+**Justificativa:** Com os valores padronizados no builder, fica mais fácil de fazer a correção pós black friday, mesmo que seja mais demorado do que implementar um construtor sobrecarregado, é preciso pensar na manutenção que será feita pós o evento.
+ 
+**Placar do grupo após esta decisão:** 🔥 9 · 💰 R$ 60 mil · 🧹 2
+
 
 ---
 
