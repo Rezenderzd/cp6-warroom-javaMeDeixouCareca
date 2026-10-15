@@ -119,7 +119,7 @@ Uma linha por decisão registrada acima (usem os títulos ditados em aula):
 🔥 7 · 💰 0 · 🧹 2)*
 
 
-## O saldo que virou negativo
+## O saldo que virou negativo (19h12) 
 
 **Tipo:**  rodada  · **Voto:** (C)
 
@@ -128,7 +128,7 @@ Uma linha por decisão registrada acima (usem os títulos ditados em aula):
 **Placar do grupo após esta decisão:** 🔥 8 · 💰 R$ 35 mil · 🧹 1
 
 
-## SQL Injection funcionando na busca por titular. O que fazer?
+## A injeção que derreteu o banco (21h02) 
  
 **Tipo:** rodada · **Voto:** (D)
  
@@ -137,14 +137,22 @@ Uma linha por decisão registrada acima (usem os títulos ditados em aula):
 **Placar do grupo após esta decisão:** 🔥 8 · 💰 R$ 35 mil · 🧹 0
  
 
- ## A noite das contas gêmeas
+ ## A noite das contas gêmeas (22h50)
  
 **Tipo:** rodada  · **Voto:** (D)
  
 **Justificativa:** Delegar a numeração para o banco de dados evita que os UUID recomecem caso a aplicação caia e a instância do Singleton deixe de existir. Desse modo, o banco de dados consegue sempre seguir a sequência mesmo que esteja fora do ar, já que seus dados persistem.
  
 **Placar do grupo após esta decisão:** 🔥 8 · 💰 R$ 45 mil · 🧹 0
+
+
+## O comprovante que aponta pra pessoa errada (00h47)
  
+**Tipo:** rodada  · **Voto:** (A)
+ 
+**Justificativa:** Nossa responsabilidade é corrigir o código para a black friday, o banco de dados pode ser corrigido por outro departamento em outro momento.
+ 
+**Placar do grupo após esta decisão:** 🔥 9 · 💰 R$ 60 mil · 🧹 1
 
 ---
 
