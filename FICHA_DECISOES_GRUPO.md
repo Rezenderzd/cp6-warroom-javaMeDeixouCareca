@@ -154,6 +154,15 @@ Uma linha por decisão registrada acima (usem os títulos ditados em aula):
  
 **Placar do grupo após esta decisão:** 🔥 9 · 💰 R$ 60 mil · 🧹 1
 
+## A fábrica que devolve null (01h30)
+ 
+**Tipo:** rodada  · **Voto:** (B)
+ 
+**Justificativa:** É melhor fazer a validação diretamente no Controller, além disso, se a validação for feita antes de chamar a função, o código não vai rodar coisas desnecessárias, já que vai ocorrer uma Exception antes.
+ 
+**Placar do grupo após esta decisão:** 🔥 9 · 💰 R$ 60 mil · 🧹 2
+
+
 ---
 
 # 📋 PÓS-MORTEM · relatório de incidente (montar em sala na 3ª aula)
