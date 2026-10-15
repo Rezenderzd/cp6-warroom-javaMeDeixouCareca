@@ -171,6 +171,14 @@ Uma linha por decisão registrada acima (usem os títulos ditados em aula):
 **Placar do grupo após esta decisão:** 🔥 9 · 💰 R$ 60 mil · 🧹 2
 
 
+## O teste vermelho às 03h45 (a janela fecha às 04h)
+ 
+**Tipo:** rodada  · **Voto:** (A)
+ 
+**Justificativa:** Como estamos com pouco tempo e a regra de negócio diz que todos os testes devem passar, consideramos desabilita-lo e esperar a black friday passar para resolver o erro, o grupo considera essa decisão melhor em relação a perder a janela de deploy
+ 
+**Placar do grupo após esta decisão:** 🔥 9 · 💰 R$ 60 mil · 🧹 3
+
 ---
 
 # 📋 PÓS-MORTEM · relatório de incidente (montar em sala na 3ª aula)
