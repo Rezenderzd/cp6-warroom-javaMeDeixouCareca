@@ -179,6 +179,14 @@ Uma linha por decisão registrada acima (usem os títulos ditados em aula):
  
 **Placar do grupo após esta decisão:** 🔥 9 · 💰 R$ 60 mil · 🧹 3
 
+## EVENTO RELÂMPAGO E: "A taxa é 5 ou 50?" (05h58)
+ 
+**Tipo:** relâmpago  · **Voto:** (B)
+ 
+**Justificativa:** A prioridade é o contrato, pois essa é a regra de negócio que deve ser seguida tanto no código quanto no dia a dia.
+ 
+**Placar do grupo após esta decisão:** 🔥 8 · 💰 R$ 60 mil · 🧹 3
+
 ---
 
 # 📋 PÓS-MORTEM · relatório de incidente (montar em sala na 3ª aula)
