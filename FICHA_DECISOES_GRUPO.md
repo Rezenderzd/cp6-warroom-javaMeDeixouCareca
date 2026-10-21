@@ -187,6 +187,14 @@ Uma linha por decisão registrada acima (usem os títulos ditados em aula):
  
 **Placar do grupo após esta decisão:** 🔥 8 · 💰 R$ 60 mil · 🧹 3
 
+## Go/No-Go da Black Friday (06h15)
+ 
+**Tipo:** rodada  · **Voto:** (B)
+ 
+**Justificativa:** Embora ainda tenha prejuízo por abrir atrasado, esse prejuízo seria menor que tirar uma forma de pagamento por completo.
+ 
+**Placar do grupo após esta decisão:** 🔥9 · 💰 R$ 100 mil · 🧹 2
+
 ---
 
 # 📋 PÓS-MORTEM · relatório de incidente (montar em sala na 3ª aula)
